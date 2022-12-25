@@ -1,0 +1,3 @@
+To run the exe
+- cd directory\A23 FIles\x64\Debug
+- A23 3 "File name".gph (i.e A23 3 Test.gph)

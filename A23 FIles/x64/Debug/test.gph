@@ -1,0 +1,9 @@
+#Tyler King 040979598 Daniel Gribanov 40938906#
+INT main() {
+	INT a;
+	FLOAT b;
+	STRING c;
+	PRINTF(a);
+	#This is our code#
+	#INT a = a + a;#
+}
